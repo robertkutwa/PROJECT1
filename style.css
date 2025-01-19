@@ -8,6 +8,7 @@ body {
     background-position: center; 
     text-align: center;
     font-size: x-large;
+    color: white;
 
 }
 
@@ -70,11 +71,11 @@ section {
     width: 100%;
     height: 200px;
     object-fit: cover;
-    border-bottom: 2px solid:transparent;
+    border-bottom: 2px solid transparent;
 }
 
 .gallery-item p {
-    margin: 10px 0;
+    margin: 10px 0; 
     font-size: 0.9rem;
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -94,12 +95,13 @@ footer {
     color: white;
 }
  
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 700px){
     .gallery-item {
         flex: 1 1 100%;
         max-width: 100%;
     }
+}
 
     nav ul {
-        flex-direction: column;
+        gap: 10px;
     }
