@@ -3,12 +3,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("Moonlight.jpeg"); 
-    background-attachment: fixed;
-    background-position: center; 
     text-align: center;
     font-size: x-large;
     color: white;
+    background-color: cornflowerblue;
 
 }
 
@@ -19,7 +17,7 @@ nav ul {
     display: flex;
     justify-content: center;
     gap: 30px; 
-    background-color: transparent;
+    background-color: none;
 }
 
 nav ul li a {
@@ -105,3 +103,46 @@ footer {
     nav ul {
         gap: 10px;
     }
+
+
+form {
+    background-color:none;
+    padding: 20px;
+    border-radius: 10px;
+    color: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+form input, form textarea, form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+form input, form textarea {
+    background-color: #e8f0fe;
+    color: #000;
+    font-size: 1rem;
+}
+
+form button {
+    background-color: none;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: none;
+}
+
+/* Centered heading and paragraph */
+form h2, form p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
