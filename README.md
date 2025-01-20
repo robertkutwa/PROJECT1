@@ -1,4 +1,4 @@
-KUTWA PHOTOGRAPHY - Website
+<p>KUTWA PHOTOGRAPHY</p>  
 Overview
 KUTWA PHOTOGRAPHY is a responsive photography website designed to showcase your portfolio, services, and personal biography. The website includes sections such as About, Biography, Gallery, Services, Contact, and a Submission Form. The website is built with clean and modern HTML5, CSS3, and JavaScript, ensuring it's fully responsive across all devices.
 
