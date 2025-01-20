@@ -12,7 +12,7 @@ SEO Optimized: The code is structured to improve search engine rankings with cle
 Live Site
 To view the live site, you can visit:
 
-[Insert Your Live Site Link Here]
+[https://robertkutwa.github.io/PROJECT1/]
 
 Setup
 To run the website locally on your machine, follow these steps:
